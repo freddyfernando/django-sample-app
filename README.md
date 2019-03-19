@@ -1,5 +1,7 @@
 # django-sample-app
 
+My test
+
 django-sample-app is a **minimal** sample application to start developing your web project immediately on [Django framework](https://www.djangoproject.com/). 
 
 The sample application comes with:
